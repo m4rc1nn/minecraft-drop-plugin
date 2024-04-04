@@ -1,0 +1,6 @@
+name: BasicDrop
+version: 1.0
+main: pl.marcin.BasicDrop
+
+commands:
+  drop:
